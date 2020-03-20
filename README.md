@@ -2,7 +2,7 @@
 
 - [Items](#items)
 - [Heroes](#heroes)
-- [Notes](h-o-t-s—-notes)
+- [Notes](H.O.T.S.%20-%20Notes.md)
 - [Changelog](#changelog)
 
 ## Items
