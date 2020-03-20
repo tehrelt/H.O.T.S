@@ -7,9 +7,9 @@
 
 ## Items
 
-1. Nikita’s call
-2. Oleg’s glasses
-3. Joster’s shit
+1. [Nikita's call](#nikitas-call)
+2. [Oleg’s glasses](#olegs-glasses)
+3. [Joster’s shit](#josters-shit)
 
 ### Nikita’s call
 
