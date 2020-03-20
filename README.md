@@ -89,14 +89,32 @@ Passive:
 
 ## Heroes
 
-### Nikita
+### N.i.k.i.t.a.
 
 #### Spells:
 
 1. Call
 2. Rightly
+3. To-Do
+4. To-Do
 
+### OLEGG
 
+#### Spells:
+
+1. Drunn-Trans
+2. To-Do
+3. To-Do
+4. To-Do
+
+### Shabalina
+
+#### Spells:
+
+1. Start speak
+2. To-Do
+3. To-Do
+4. To-Do
 
 ## Notes
 
